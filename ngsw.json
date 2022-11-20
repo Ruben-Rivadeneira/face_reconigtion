@@ -1,0 +1,117 @@
+{
+  "configVersion": 1,
+  "timestamp": 1668977782442,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.bed106d12a6d16fa.js",
+        "/manifest.webmanifest",
+        "/polyfills.e302c7c6b76d9708.js",
+        "/runtime.c2e4816ebc8f7820.js",
+        "/styles.2f9af2327ccaa940.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/models/age_gender_model-shard1",
+        "/assets/models/age_gender_model-weights_manifest.json",
+        "/assets/models/face_expression_model-shard1",
+        "/assets/models/face_expression_model-weights_manifest.json",
+        "/assets/models/face_landmark_68_model-shard1",
+        "/assets/models/face_landmark_68_model-weights_manifest.json",
+        "/assets/models/face_landmark_68_tiny_model-shard1",
+        "/assets/models/face_landmark_68_tiny_model-weights_manifest.json",
+        "/assets/models/face_recognition_model-shard1",
+        "/assets/models/face_recognition_model-shard2",
+        "/assets/models/face_recognition_model-weights_manifest.json",
+        "/assets/models/mtcnn_model-shard1",
+        "/assets/models/mtcnn_model-weights_manifest.json",
+        "/assets/models/ssd_mobilenetv1_model-shard1",
+        "/assets/models/ssd_mobilenetv1_model-shard2",
+        "/assets/models/ssd_mobilenetv1_model-weights_manifest.json",
+        "/assets/models/tiny_face_detector_model-shard1",
+        "/assets/models/tiny_face_detector_model-weights_manifest.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/models/age_gender_model-shard1": "68efb6165dee48424ab370cea7810d7f71597e16",
+    "/assets/models/age_gender_model-weights_manifest.json": "5efd7c6adf0828893964896d166e64ea05cce6fa",
+    "/assets/models/face_expression_model-shard1": "0ca0204d4874378d23108964c5334b3d4b681c37",
+    "/assets/models/face_expression_model-weights_manifest.json": "c33a644b3b2a25081ef5ee577404594bd0441c3e",
+    "/assets/models/face_landmark_68_model-shard1": "e8b453a3ce2a66e6fa070d4e30cd4e91c911964b",
+    "/assets/models/face_landmark_68_model-weights_manifest.json": "a981c7adfc6366e7b51b6c83b3bb84961a9a4b15",
+    "/assets/models/face_landmark_68_tiny_model-shard1": "3bfc170344e9c751a2151df215a2b4ffcfd6ee75",
+    "/assets/models/face_landmark_68_tiny_model-weights_manifest.json": "253d2867f666fc988276d0a201648226ff63e006",
+    "/assets/models/face_recognition_model-shard1": "c69cbd36c84ff1bc8616c6419a844a54fa80fea5",
+    "/assets/models/face_recognition_model-shard2": "979a3986e82619626b98814ad8d26dc175b7fdee",
+    "/assets/models/face_recognition_model-weights_manifest.json": "8516eb7f57ac9f599935cae4e246e8f7c39ff631",
+    "/assets/models/mtcnn_model-shard1": "3fe6b39d36f21392110d38a8a9834337e46c1f00",
+    "/assets/models/mtcnn_model-weights_manifest.json": "cdb2f83dd4b3dfa3d13ec960b6b8654a9f0a1e04",
+    "/assets/models/ssd_mobilenetv1_model-shard1": "85de0971e39eeb2c508ac9af83770f6605ef068e",
+    "/assets/models/ssd_mobilenetv1_model-shard2": "a762785845298f4a97fdb5a35dd5e0dd359e353b",
+    "/assets/models/ssd_mobilenetv1_model-weights_manifest.json": "10e759ab18ead2c24ae53e8bb06804753ace5fcc",
+    "/assets/models/tiny_face_detector_model-shard1": "f3020debaf078347b5caaff4bf6dce2f379d20bc",
+    "/assets/models/tiny_face_detector_model-weights_manifest.json": "1f9da0ddb847fcd512cb0511f6d6c90985d011e6",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "1b6425d95e79dfdab8117896e94fda75d3c0c3e9",
+    "/main.bed106d12a6d16fa.js": "22f78a1dd0aacdbceff32f5324c99472c1e88ad1",
+    "/manifest.webmanifest": "4230438614136c6ecd8608faeccc1ca314a220fd",
+    "/polyfills.e302c7c6b76d9708.js": "555bd03ec19e1f6a8ed77058bc0f38dc4396c984",
+    "/runtime.c2e4816ebc8f7820.js": "ac6f35952c7882a25bd0ad250cc94ca355cbd856",
+    "/styles.2f9af2327ccaa940.css": "1b7052169da82557ef9e988fb7130e50a42eedff"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
